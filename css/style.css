@@ -188,8 +188,8 @@ span {
     color: #000;
     position: fixed;
     z-index: 2;
-    margin-left: 0.3em;
-    margin-top: 0.2em;
+    right: 0.2em;
+    top: 0.2em;
 }
 
 .overlay a {
